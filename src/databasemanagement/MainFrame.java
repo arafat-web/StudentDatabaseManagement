@@ -203,7 +203,7 @@ public final class MainFrame extends javax.swing.JFrame {
         jLabel9.setText("Class:");
 
         Class.setFont(new java.awt.Font("sansserif", 1, 14)); // NOI18N
-        Class.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Class 1", "Class 2", "Class 3" }));
+        Class.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "One", "Two", "Three" }));
 
         jLabel10.setFont(new java.awt.Font("Arial Black", 1, 18)); // NOI18N
         jLabel10.setForeground(new java.awt.Color(204, 255, 255));
